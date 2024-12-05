@@ -1,12 +1,6 @@
 {
   "name": "FluffyFox Coin",
   "symbol": "FLFY",
-  "decimals": 9,
-  "image": "https://raw.githubusercontent.com/HsEarth/FLFY/refs/heads/main/FLFY.jpg",
   "description": "FluffyFox Coin - a token with purpose for charity and fun!",
-  "properties": {
-    "category": "cryptocurrency",
-    "charity_wallet": "2TUHFMiX1QPvZWtoxRXmmcZV1x8kRM9G5QSN85cEQ4MA",
-    "command_wallet": "8oFqoGFp9s3RZNj9nai4yu5dTRG68HJ5YuSfpFXgxTdQ"
+  "image": "https://raw.githubusercontent.com/HsEarth/FLFY/refs/heads/main/FLFY.jpg",
   }
-}
