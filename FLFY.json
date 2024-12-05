@@ -1,6 +1,16 @@
 {
-  "name": "FluffyFox Coin",
-  "symbol": "FLFY",
-  "description": "FluffyFox Coin - a token with purpose for charity and fun!",
-  "image": "https://raw.githubusercontent.com/HsEarth/FLFY/refs/heads/main/FLFY.png",
-  }
+	"name": "FluffyFox Coin",
+	"symbol": "FLFY",
+	"description": "Mighty pirate gold that can buy boats, rum and cannons! Arrr!",
+	"seller_fee_basis_points": 0,
+	"image": "https://raw.githubusercontent.com/HsEarth/FLFY/refs/heads/main/FLFY.png",
+	"animation_url": null,
+	"attributes": [
+		{
+			"trait_type": "FLFY",
+			"value": "100%"
+		},
+        {
+			"trait_type": "aa",
+			"value": "aa!"
+		}
