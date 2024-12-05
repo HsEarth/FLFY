@@ -2,7 +2,7 @@
   "name": "FluffyFox Coin",
   "symbol": "FLFY",
   "decimals": 9,
-  "image": "",
+  "image": "https://raw.githubusercontent.com/HsEarth/FLFY/refs/heads/main/FLFY.jpg",
   "description": "FluffyFox Coin - a token with purpose for charity and fun!",
   "properties": {
     "category": "cryptocurrency",
